@@ -1,8 +1,8 @@
 # Overview
 
 Academic Year: 2022-2023<br>
-Project Title: News & Fantasy Football<br>
-Students: Lorenzo Giannella<br>
+Project Title: Serie A - News & Fantasy Football<br>
+Student: Lorenzo Giannella<br>
 CFUs: 9
 
 This project will implement an application that will help users who are passionate about football with:
