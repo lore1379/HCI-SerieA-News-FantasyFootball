@@ -41,4 +41,4 @@ The following outcomes are expected from this project:
 The purpose of this project is to create an ecosystem (full-stack development) for a web application. The application must be capable of providing the user with a complete and satisfying experience regarding all the Serie A news and informations.
 
 # Project Documents
--
+- [Final Report](https://github.com/lore1379/HCI-SerieA-News-FantasyFootball/blob/main/Report.pdf)
