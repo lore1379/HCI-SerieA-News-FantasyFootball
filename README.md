@@ -42,3 +42,4 @@ The purpose of this project is to create an ecosystem (full-stack development) f
 
 # Project Documents
 - [Final Report](https://github.com/lore1379/HCI-SerieA-News-FantasyFootball/blob/main/Report.pdf)
+- [Wireframe/Mockup](https://www.figma.com/file/yivGDedvxIloHRlftPEQ1H/HCI---Serie-A-News-%26-Fantasy-Football?type=design&node-id=0%3A1&mode=design&t=8XsVlNQFjdniw6Yo-1)
