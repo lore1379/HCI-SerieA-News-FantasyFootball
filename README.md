@@ -38,7 +38,7 @@ The following outcomes are expected from this project:
 - An identity provider to handle Identification, Authentication and Authorization mechanisms.
 
 # Summary
-The purpose of this project is to create an ecosystem (full-stack development) for a web application. The application must be capable of providing the user with a complete and satisfying experience regarding all the Serie A news and informations.
+The purpose of this project is to create an ecosystem (full-stack development) for a mobile application. The application must be capable of providing the user with a complete and satisfying experience regarding all the Serie A news and informations.
 
 # Project Documents
 - [Final Report](https://github.com/lore1379/HCI-SerieA-News-FantasyFootball/blob/main/Report.pdf)
