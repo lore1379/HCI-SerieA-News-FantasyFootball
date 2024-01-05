@@ -6,13 +6,13 @@ Student: Lorenzo Giannella<br>
 CFUs: 9
 
 This project will implement an application that will help users who are passionate about football with:
-- news regarding Serie A
-- news regarding favorite team
-- teams ranking
-- match results
-- possibility to watch live matches in textual form
-- player ratings for fantasy football
-- create the fantasy football lineup
+- News regarding Serie A
+- News regarding favorite team
+- Teams ranking
+- Match results
+- Possibility to watch live matches in textual form
+- Player ratings for fantasy football
+- Create the fantasy football lineup
 
 # Tools and Techniques
 The main tools and techniques employed:
