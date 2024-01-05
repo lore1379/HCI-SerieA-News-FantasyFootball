@@ -26,7 +26,7 @@ The main tools and techniques employed:
 - OpenID: Open standard and decentralized authentication protocol
 - OAuth: Protocol that provides a way for resource owners to provide an application with secure delegated access to server resources.
 - Angular: TypeScript-based, single-page web application framework
-- Material: Implementation of Google Material Design in Angular
+- Ionic: Framework for mobile apps development
 - TailWindCSS : CSS framework.
 
 # Expected Outcomes
@@ -34,7 +34,7 @@ The following outcomes are expected from this project:
 
 - A server component (Back-End) realized with Quarkus, Hibernate and PostgreSQL in a micro-service architecture according to the REST architectural style to store and handle relevant data in database.
 - Handle server sent events thanks to Quarkus, SmallRye Reactive Messaging and Apache Kafka.
-- An Angular web application (Front-End) to let users experience all the aforementioned fuctionalities.
+- An Angular Ionic mobile application (Front-End) to let users experience all the aforementioned fuctionalities.
 - An identity provider to handle Identification, Authentication and Authorization mechanisms.
 
 # Summary
